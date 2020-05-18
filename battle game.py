@@ -1,6 +1,7 @@
 #Battle game
 #A Pokémon style battle game. Have fun!
 #if you like, pls star this
+# By life2048
 
 import random
 import tim
